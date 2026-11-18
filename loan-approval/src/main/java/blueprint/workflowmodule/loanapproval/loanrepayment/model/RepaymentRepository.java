@@ -1,4 +1,4 @@
-package blueprint.workflowmodule.loanrepayment.model;
+package blueprint.workflowmodule.loanapproval.loanrepayment.model;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

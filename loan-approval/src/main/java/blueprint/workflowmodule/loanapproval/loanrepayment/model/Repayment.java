@@ -1,4 +1,4 @@
-package blueprint.workflowmodule.loanrepayment.model;
+package blueprint.workflowmodule.loanapproval.loanrepayment.model;
 
 import io.vanillabp.spi.service.NoSyncWithBPMS;
 import jakarta.persistence.Column;

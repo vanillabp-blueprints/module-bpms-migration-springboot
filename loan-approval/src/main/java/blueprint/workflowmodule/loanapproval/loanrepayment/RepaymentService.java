@@ -1,4 +1,4 @@
-package blueprint.workflowmodule.loanrepayment;
+package blueprint.workflowmodule.loanapproval.loanrepayment;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,8 +6,8 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
 
-import blueprint.workflowmodule.loanrepayment.model.Repayment;
-import blueprint.workflowmodule.loanrepayment.model.RepaymentRepository;
+import blueprint.workflowmodule.loanapproval.loanrepayment.model.Repayment;
+import blueprint.workflowmodule.loanapproval.loanrepayment.model.RepaymentRepository;
 import lombok.extern.slf4j.Slf4j;
 
 /**

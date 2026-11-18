@@ -1,9 +1,9 @@
-package blueprint.workflowmodule.loanrepayment;
+package blueprint.workflowmodule.loanapproval.loanrepayment;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import blueprint.workflowmodule.loanrepayment.model.Repayment;
+import blueprint.workflowmodule.loanapproval.loanrepayment.model.Repayment;
 import io.vanillabp.spi.service.BpmnProcess;
 import io.vanillabp.spi.service.WorkflowService;
 import io.vanillabp.spi.service.WorkflowTask;
